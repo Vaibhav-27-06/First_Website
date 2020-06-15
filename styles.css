@@ -1,7 +1,5 @@
 .myheader {
-  text-align: center;
-  background-color: darkcyan;
-}
+  text-align: center;}
 
 .profilepic
 {
@@ -10,7 +8,7 @@
 
 
 .carousel-item{
-    height: 500px;
+    height: 700px;
     text-align: center;
 }
 .item1{
