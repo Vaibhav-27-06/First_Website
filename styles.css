@@ -1,0 +1,27 @@
+.myheader {
+  text-align: center;
+  background-color: darkcyan;
+}
+
+.profilepic
+{
+  border-radius: 50%
+}
+
+
+.carousel-item{
+    height: 500px;
+    text-align: center;
+}
+.item1{
+    background-color:red;  
+
+}
+.item2{
+    background-color:blue; 
+   
+}
+.item3{
+    background-color:yellow; 
+   
+}
