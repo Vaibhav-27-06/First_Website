@@ -26,3 +26,14 @@
 a{
   text-decoration:none;
 }
+#About{
+  display:inline-block;
+  float:left;
+}
+#Education{
+  display:inline-block;
+  float:left;
+}
+#EducationCarousel{
+  clear:both;
+}
