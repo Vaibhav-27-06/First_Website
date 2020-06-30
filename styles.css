@@ -1,8 +1,11 @@
+body{
+  background-image: url('https://www.growthgurus.com/wp-content/uploads/2018/07/ico-websites-background-placeholder-image.jpg') ;
+}
 .myheader {
-  text-align: center;}
+  text-align: center;
+}
 
-.profilepic
-{
+.profilepic{
   border-radius: 50%
 }
 .carousel-item{
@@ -17,12 +20,44 @@ a{
   display:inline-block;
   float:left;
   width:50%;
+  color:#fff9f9;
 }
 #Education{
   display:inline-block;
   float:left;
   width:40%;
+  color:#fff9f9;
 }
 #EducationCarousel{
   clear:both;
 }
+section{
+  display:inline-block;
+  float:left;
+}
+section:last-child{
+  display:block;
+  clear:both;
+}
+#Contact{
+  color:#fff9f9;
+}
+#Contact button{
+  transition: 1s background-color;
+}
+#Contact button:hover{
+  background-color:rgb(247, 6, 6);
+}
+#Contact button:focus{
+  background-color:rgb(216, 8, 8);
+}
+#Contact p{
+  transition: 0.5s color;
+}
+#Contact p:hover{
+  color:#FFFFFF;
+}
+#Contact div:last-child button:focus{
+  background-color:rgb(246, 248, 247);
+}
+
