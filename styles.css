@@ -1,3 +1,8 @@
+
+body{
+  padding:5px;
+
+}
 .myheader {
   text-align: center;}
 
@@ -5,8 +10,6 @@
 {
   border-radius: 50%
 }
-
-
 .carousel-item{
     height: 700px;
     text-align: center;
@@ -29,10 +32,12 @@ a{
 #About{
   display:inline-block;
   float:left;
+  width:40%;
 }
 #Education{
   display:inline-block;
   float:left;
+  width:40%;
 }
 #EducationCarousel{
   clear:both;
